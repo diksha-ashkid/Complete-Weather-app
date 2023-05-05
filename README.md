@@ -15,6 +15,8 @@ Features:
 8. Displays a weather icon based on the current weather condition, using the        OpenWeather API icon codes.
 9. Provides an easy-to-use search bar to enter a city name and retrieve weather    information for that location.
 
+![image](https://user-images.githubusercontent.com/89176434/236501416-520c9d25-5ddf-423a-8e48-882e4e134e60.png)
+
 Requirements:
 - Node.js (v14.16.1 or higher)
 - Python (v3.7 or higher)
@@ -47,3 +49,12 @@ Usage:
 5. To search for weather information for another city, simply type the name of the city in the search bar and repeat steps 3 and 4.
 
 6. Overall, the Complete Weather App provides a simple and intuitive way to get real-time weather information for any city in the world, and its user-friendly design makes it easy to use for anyone.
+
+To deploy on GCP:
+1. Create a new project in the cloud platform.
+2. Set up a virtual machine instance with the required configurations
+3. Install the necessary software dependencies (e.g. Node.js, Python, Django, etc.).
+4. Clone the project repository onto the virtual machine instance.
+5. Build and deploy the project using the appropriate commands 
+6. Set up a domain name and SSL certificate for the application (if required).
+7. Launch the application and verify that it is working correctly.
