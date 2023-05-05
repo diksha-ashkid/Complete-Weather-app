@@ -4,6 +4,8 @@ The web application is designed to give users access to real-time weather inform
 To obtain weather data for a specific city, the application uses the OpenWeatherMap API, which is a free API that provides current and forecast weather data for any location.
 Overall, the application is designed to be responsive and easy to use, providing an intuitive interface for users to input a city name and retrieve current weather data.
 
+![image](https://user-images.githubusercontent.com/89176434/236501416-520c9d25-5ddf-423a-8e48-882e4e134e60.png)
+
 Features:
 1. Front-end built with React.js, a popular JavaScript library for building user    interfaces.
 2. Back-end built with Django, a high-level Python web framework that follows      the model-view-controller (MVC) architectural pattern.
@@ -15,7 +17,6 @@ Features:
 8. Displays a weather icon based on the current weather condition, using the        OpenWeather API icon codes.
 9. Provides an easy-to-use search bar to enter a city name and retrieve weather    information for that location.
 
-![image](https://user-images.githubusercontent.com/89176434/236501416-520c9d25-5ddf-423a-8e48-882e4e134e60.png)
 
 Requirements:
 - Node.js (v14.16.1 or higher)
