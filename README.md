@@ -1,4 +1,4 @@
-                                                           Weather Application
+                                                        Weather Application
 
 The web application is designed to give users access to real-time weather information for any city in the world. It uses a combination of technologies such as React, a popular front-end JavaScript library, and Django, a Python-based web framework for the back-end.
 To obtain weather data for a specific city, the application uses the OpenWeatherMap API, which is a free API that provides current and forecast weather data for any location.
